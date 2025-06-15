@@ -19,4 +19,4 @@
 
 ## Link
 
-- [database.build website](https://database.build)
+- [database.build](https://database.build)
