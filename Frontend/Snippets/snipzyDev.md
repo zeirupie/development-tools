@@ -1,3 +1,5 @@
+# Snipzy.com
+
 [Snipzy.dev](https://snipzy.dev) is a free and modern platform for frontend developers, offering a growing library of high-quality HTML, CSS, and JavaScript snippets. It’s perfect for speeding up development with ready-to-use, responsive, and visually engaging components.
 
 ## Key Features
