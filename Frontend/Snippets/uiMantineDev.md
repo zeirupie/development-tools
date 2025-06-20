@@ -1,10 +1,10 @@
-# 🛠️ UI.Mantine.dev
+# UI.Mantine.dev
 
 [ui.mantine.dev](https://ui.mantine.dev/) is a showcase website featuring ready-to-use UI components built with the **Mantine** React library. Perfect for accelerating front-end development with beautifully styled, fully accessible components.
 
 ---
 
-## ⭐ Key Features
+## Key Features
 
 - **Extensive Component Library**  
   Includes 120+ components and hooks covering inputs, layouts, overlays, navigation, forms, notifications, carousels, rich text editors, and more :contentReference[oaicite:1]{index=1}.
